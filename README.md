@@ -9,7 +9,7 @@
 ╚══════╝ ╚═════╝ ╚═╝╚══════╝    ╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝ ╚═════╝  ╚═════╝ ╚══════╝╚══════╝
 ```
 
-### `[ AI Engineer · Electronic Warfare · Data Science ]`
+### `[ Data Scientist · AI Engineer · Electronic Warfare ]`
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Engineer;Electronic+Warfare+Systems+%40+Indra;Data+Science+%7C+Deep+Learning+%7C+Finance;Telecom+Engineer+%7C+Big+Data+Specialist)](https://git.io/typing-svg)
 
@@ -145,24 +145,12 @@ class LuisRodriguezFenollar:
 
 | Proyecto | Descripción | Tecnologías | Estado |
 |---|---|---|---|
-| 🔵 **EW Signal Classifier** | Clasificación de señales RF con Deep Learning | Python · PyTorch · DSP | 🔒 Privado |
 | 📈 **FinData Analyzer** | Análisis y visualización de datos financieros | Python · Pandas · Plotly | 🔨 WIP |
 | 🧠 **RL Trading Agent** | Agente de trading con Reinforcement Learning | Python · Stable-Baselines3 | 🔨 WIP |
 | 🗂️ **ML Pipeline Template** | Template modular para proyectos de ML | Python · OOP · scikit-learn | 📌 Próximo |
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Luis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lrfenollar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lrfenollar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF)
-
-</div>
-
----
 
 ## 📫 Contacto
 
