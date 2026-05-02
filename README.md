@@ -156,9 +156,9 @@ class LuisRodriguezFenollar:
 
 <div align="center">
 
-![Luis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF)
+![Luis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lrfenollar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lrfenollar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF)
 
 </div>
 
@@ -168,9 +168,9 @@ class LuisRodriguezFenollar:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_PERFIL)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TU_USERNAME)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luisrodriguezfenollar)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lrfenollar)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luis.rodriguez.fenollar1011@gmail.com)
 
 </div>
 
@@ -182,7 +182,7 @@ class LuisRodriguezFenollar:
 "En entornos donde el margen de error es cero, la IA no es una ventaja — es una necesidad."
 ```
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=TU_USERNAME.TU_USERNAME)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=lrfenollar.lrfenollar)
 
 *⚡ Este perfil se actualiza regularmente con nuevos proyectos y aprendizajes*
 
