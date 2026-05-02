@@ -11,7 +11,7 @@
 
 ### `[ Data Scientist · AI Engineer · Electronic Warfare ]`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Engineer;Electronic+Warfare+Systems+%40+Indra;Data+Science+%7C+Deep+Learning+%7C+Finance;Telecom+Engineer+%7C+Big+Data+Specialist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Data+%26+Scientist;Electronic+Warfare+Systems+%40+Indra;Data+Science+%7C+Deep+Learning+%7C+Finance;Telecom+Engineer+%7C+Big+Data+Specialist)](https://git.io/typing-svg)
 
 </div>
 
